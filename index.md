@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+---
 
-You can use the [editor on GitHub](https://github.com/jybjybjyb/jybjybjyb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+姜某，86年生人，已婚已育，爱好繁多而无一精。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+#### **联系方式**
+                                                   
+* E-MAIL:   jybjybjyb@gmail.com， jybjybjyb@126.com
+* Wechat：  jiangtingzhi
+* QQ：      39421832
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+---
+#### **兴趣方向**
+1. 功率半导体可靠性理论及鲁棒性设计之研究（迫于生计）
+2. 多模态转换及融合之研究（现为无团队的游击队作战状态）
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### **工作经历**
+Time | Institude | Details
+---- | --------- | -------                                              
+2016.02~present | 某三流高校 | 讲师（无团队）
+2014.11~2016.01 | 某公司（南京） | 算法工程师
+2013.07~2014.09 | 某研究所 | 副主管设计师
+2013.06 | 博士毕业 | 学渣
 
-**Bold** and _Italic_ and `Code` text
+---
+#### **自研产品**
+1. 服务于快递物流体积测量系统
+2. 红外图像增强算法
+3. 待开发
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jybjybjyb/jybjybjyb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+#### **学术成果**
+- 以第一作者身份在发表科技论文 14 篇，含TRANS 1篇 :)
+- 以第一申请人身份获得已授权国家发明专利 13 项 (其中 4项 已科技成果转化)
